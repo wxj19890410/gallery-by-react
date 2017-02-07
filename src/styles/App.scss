@@ -28,7 +28,10 @@ html,body{
   overflow: hidden;
   background-color: #ddd;
   perspective: 1800px;
-
+img{
+  width: 240px;
+  height: 240px;
+}
   @at-root {
     .img-figure {
       position: absolute;
